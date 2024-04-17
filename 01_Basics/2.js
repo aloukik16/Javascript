@@ -20,3 +20,8 @@ console.log(typeof undefined); // undefined
 // 7 types : String, Number, Boolean, null, Undefined, Symbol, Bigint.
 // Refrence (Non - Primitive)
 // Array, Objects, Functions
+
+
+
+// Memory: 
+// Stack: (Primitive), Heap: (Non-Primitive)
