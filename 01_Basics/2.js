@@ -15,3 +15,8 @@
 // Object:
 console.log(typeof null); // object
 console.log(typeof undefined); // undefined
+
+// Primitive 
+// 7 types : String, Number, Boolean, null, Undefined, Symbol, Bigint.
+// Refrence (Non - Primitive)
+// Array, Objects, Functions
