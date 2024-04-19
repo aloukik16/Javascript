@@ -1,4 +1,3 @@
-console.log(JsUser.email);
-// console.log(JsUser["email"]);
-// console.log(JsUser["full name"]);
-// console.log(JsUser[mySym]);
+
+console.log(Object.values(tinderUser));
+console.log(Object.entries(tinderUser
